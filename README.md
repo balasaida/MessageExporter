@@ -16,7 +16,7 @@ Note: This framework does not show you the firebase/graphQL/URLSession integrati
 You can use [Carthage](https://github.com/balasaida/MessageExporter) to install `MessageExporter` by adding it to your `Cartfile`:
 
 ```
-git "https://github.com/balasaida/MyMessageExporter" "develop"
+git "https://github.com/balasaida/MessageExporter" "develop"
 ```
 
 If you use Carthage to build your dependencies, make sure you have added `MessageExporter.framework` to the "Linked Frameworks and Libraries" section of your target, and have included them in your Carthage framework copying build phase.
@@ -26,6 +26,6 @@ If you use Carthage to build your dependencies, make sure you have added `Messag
 #### Initialization
 
 ```swift
-Please check out this https://github.com/balasaida/Exporter to get the better idea about using this framework
+Please check out this https://github.com/balasaida/Exporter/tree/develop to get the better idea about using this framework
 ```
 
