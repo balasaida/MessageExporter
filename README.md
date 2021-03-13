@@ -6,12 +6,12 @@ Note: This framework does not show you the firebase/graphQL/URLSession integrati
 
 ## Requirements
 
-- iOS 11.0+ | macOS 10.15.5+
+- iOS 12.0+ | macOS 10.15.5+
 - Xcode 11.3.1
 
 ### Installing
 
-#### Carthage (iOS 11+, OS X 10.15.5+)
+#### Carthage (iOS 12+, OS X 10.15.5+)
 
 You can use [Carthage](https://github.com/balasaida/MessageExporter) to install `MessageExporter` by adding it to your `Cartfile`:
 
